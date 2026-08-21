@@ -1,5 +1,5 @@
 # 💫 About Me:
-Trying to Build stuff
+Trying to Build stuff........
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praneethreddyb47@gmail.com) 

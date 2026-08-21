@@ -1,9 +1,6 @@
 # 💫 About Me:
 Trying to Build stuff........
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praneethreddyb47@gmail.com) 
-
 # 🚀 Projects:
 * **[FintSentStock](https://github.com/Praneeth9346/FintSentStock)** - A stock market sentiment prediction engine using LSTMs and NLP.
 * **[Qsecure](https://github.com/Praneeth9346/Qsecure)** - *QSecure is an advanced, privacy-focused Android application designed to scan and analyze QR codes for security threats before they are opened.*

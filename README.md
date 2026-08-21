@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on **FintSentStock**, a stock market sentiment prediction engine using LSTMs and NLP.<br><br> I’m looking to collaborate on **Open Source AI/ML projects**, specifically involving Natural Language Processing or Computer Vision.<br><br> I’m looking for help with **Advanced Frontend Development** (React/Next.js) to build better UIs for my data models.<br><br>I’m currently learning **Agentic AI workflows** and **Cloud Native Data Engineering**.<br><br>Ask me about **Python, SQL, Machine Learning**, or how to organize a tech Hackathon.<br><br>Fun fact **I organized 'Hackfiniti', a hackathon with 100+ participants, while maintaining a high GPA!**
+Trying to Build stuff
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praneethreddyb47@gmail.com) 
